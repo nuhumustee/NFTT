@@ -1,0 +1,21 @@
+body {
+  width: 100%;
+  height: 100%;
+  background-color: hsl(217, 54%, 11%);
+}
+
+p {
+  display: inline-block;
+}
+
+.main_card {
+  background-color: hsl(216, 50%, 16%);
+  width: 25%;
+  margin: 100% auto;
+}
+
+
+.inner-image {
+  width: 100%;
+  padding: 2% 2% 2% 2%;
+}
